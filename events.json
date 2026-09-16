@@ -1,0 +1,29 @@
+[
+  {
+    "name": "astro",
+    "full_name": "withastro/astro",
+    "description": "The web framework for content-driven websites.",
+    "language": "TypeScript",
+    "stargazers_count": 49000,
+    "html_url": "https://github.com/withastro/astro",
+    "starred_at": "2026-09-12"
+  },
+  {
+    "name": "ripgrep",
+    "full_name": "BurntSushi/ripgrep",
+    "description": "An extremely fast search tool for recursively searching directories.",
+    "language": "Rust",
+    "stargazers_count": 53000,
+    "html_url": "https://github.com/BurntSushi/ripgrep",
+    "starred_at": "2026-09-05"
+  },
+  {
+    "name": "htmx",
+    "full_name": "bigskysoftware/htmx",
+    "description": "HTML-first tools for modern, lightweight interactions.",
+    "language": "JavaScript",
+    "stargazers_count": 46000,
+    "html_url": "https://github.com/bigskysoftware/htmx",
+    "starred_at": "2026-08-28"
+  }
+]
